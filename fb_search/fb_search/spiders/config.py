@@ -1,0 +1,9 @@
+host = '192.168.20.86'
+port = 3306
+# db = 'mm_cloud'
+passwd = 'rahasia2016'
+user = 'root'
+broker = 'datanode02.cluster2.ph:6667'
+kafka_topic = 'facebook-stream'
+firefox_proxy = '192.168.150.191 :3128'
+bootstrap_servers = ['datanode02.cluster2.ph:6667', 'datanode05.cluster2.ph:6667','datanode07.cluster2.ph:6667']
